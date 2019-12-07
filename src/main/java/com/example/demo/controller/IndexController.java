@@ -9,6 +9,8 @@ public class IndexController {
 
     @RequestMapping("test")
     public String index(){
-        return "hello world";
+        return "hello world----------------------";
     }
+
+
 }
